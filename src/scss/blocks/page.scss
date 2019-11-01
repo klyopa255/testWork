@@ -1,0 +1,12 @@
+.page {
+  font-family: $font-family;
+
+  &__inner {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__content {}
+
+  &__footer-wrapper {}
+}
